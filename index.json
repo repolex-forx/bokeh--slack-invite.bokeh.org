@@ -1,0 +1,11 @@
+{
+  "org": "bokeh",
+  "repo": "slack-invite.bokeh.org",
+  "versions": [
+    {
+      "commit": "4f2305a26502ad8285ae01ac5879d0ae0e3b3d3a",
+      "tag": "",
+      "parsed_at": "2026-10-21T03:08:48.413810+00:00"
+    }
+  ]
+}
